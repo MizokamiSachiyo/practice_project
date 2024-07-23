@@ -1,4 +1,4 @@
-package q08;
+package method.q08;
 
 public class SumLoop {
 
@@ -22,4 +22,5 @@ public class SumLoop {
 		}
 		return sum;
 	}
+
 }

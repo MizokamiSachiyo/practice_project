@@ -1,4 +1,4 @@
-package q09;
+package method.q09;
 
 public class Even {
 

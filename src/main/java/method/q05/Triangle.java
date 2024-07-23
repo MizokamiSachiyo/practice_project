@@ -1,4 +1,4 @@
-package q05;
+package method.q05;
 
 public class Triangle {
 

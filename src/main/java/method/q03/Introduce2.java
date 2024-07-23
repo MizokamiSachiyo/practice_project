@@ -1,4 +1,4 @@
-package q03;
+package method.q03;
 
 public class Introduce2 {
 

@@ -1,4 +1,4 @@
-package q01;
+package method.q01;
 
 public class Greeting {
 

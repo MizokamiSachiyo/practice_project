@@ -1,4 +1,4 @@
-package q06;
+package method.q06;
 
 public class Circle {
 

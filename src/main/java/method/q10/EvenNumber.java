@@ -1,4 +1,4 @@
-package q10;
+package method.q10;
 
 import java.util.Arrays;
 
