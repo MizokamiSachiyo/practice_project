@@ -12,8 +12,8 @@ public class Circle {
 	}
 
 	public static double getCircleArea(double radius) {
-		double pi = 3.14;
-		return pi * radius * radius;
+		final double PI = 3.14;
+		return PI * radius * radius;
 	}
 
 }
