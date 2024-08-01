@@ -11,8 +11,8 @@ public class Triangle {
 		System.out.println("三角形の面積:" + area);
 	}
 
-	public static int getTriangleArea(int a, int b) {
-		return a * b / 2;
+	public static int getTriangleArea(int bottom, int height) {
+		return bottom * height / 2;
 	}
 
 }

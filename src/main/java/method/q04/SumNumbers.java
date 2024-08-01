@@ -4,16 +4,17 @@ public class SumNumbers {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
-		int[] num = { 3, 2 };
-		int sum = calculateSum(num);
+		int num1 = 3;
+		int num2 = 2;
+		int sum = calculateSum(num1, num2);
 
-		System.out.println("第一引数:" + num[0]);
-		System.out.println("第二引数:" + num[1]);
+		System.out.println("第一引数:" + num1);
+		System.out.println("第二引数:" + num2);
 		System.out.println("加算結果:" + sum);
 	}
 
-	public static int calculateSum(int[] num) {
-		return num[0] + num[1];
+	public static int calculateSum(int num1, int num2) {
+		return num1 + num2;
 	}
 
 }
